@@ -40,8 +40,8 @@ public class RegisterServlet extends HttpServlet {
     }
 
     private void sendPasswordEmail(String email, String password) throws MessagingException {
-        final String username = "madubhashinimanusha@gmail.com"; // Replace with your email
-        final String appPassword = "nzoc dgwc vpxq mwbr"; // Replace with app password
+        final String username = ""; // Replace with your email
+        final String appPassword = ""; // Replace with app password
 
         Properties props = new Properties();
         props.put("mail.smtp.auth", "true");
