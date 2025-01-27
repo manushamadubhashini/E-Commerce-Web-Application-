@@ -11,13 +11,13 @@ The goal of this project is to design and implement a fully functional e-commerc
 
 ![Image](https://github.com/user-attachments/assets/c10c276f-a1b3-457d-b592-57d04b6235ed)
 
-![Image](https://github.com/user-attachments/assets/57da2b35-84e6-4958-b33e-e2ae8694ce57)
+![Image](https://github.com/user-attachments/assets/8170c1be-1531-43d1-a40c-74ca73a6efa7)
 
-![Image](https://github.com/user-attachments/assets/3c27f89b-cd88-4c7b-bd08-f56f167459a7)
+![Image](https://github.com/user-attachments/assets/ac410bbe-12e5-4d92-be81-06a3641fca4d)
 
-![Image](https://github.com/user-attachments/assets/3e00f574-1f74-4357-b069-0471e57f77f2)
+![Image](https://github.com/user-attachments/assets/532111e0-a7b1-471f-8701-1fc3f5ec659a)
 
-![Image](https://github.com/user-attachments/assets/35e2d4b8-ec1b-435f-9a45-a89ccf3d8f49)
+![Image](https://github.com/user-attachments/assets/50b6c635-a2ec-4114-88b8-f021d6e0e4c5)
 
 ## Customer User Interfaces
 
