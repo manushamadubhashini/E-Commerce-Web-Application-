@@ -4,6 +4,17 @@
 The goal of this project is to design and implement a fully functional e-commerce web application using JavaEE, JDBC connection pooling, and JSP. The application includes features such as product management, user authentication, order processing, and cart management. This project provides practical exposure to building dynamic web applications.
 
 ---
+![Image](https://github.com/user-attachments/assets/7732fc4c-6496-4b5a-beee-de94d71120be)
+
+![Image](https://github.com/user-attachments/assets/c10c276f-a1b3-457d-b592-57d04b6235ed)
+
+![Image](https://github.com/user-attachments/assets/57da2b35-84e6-4958-b33e-e2ae8694ce57)
+
+![Image](https://github.com/user-attachments/assets/3c27f89b-cd88-4c7b-bd08-f56f167459a7)
+
+![Image](https://github.com/user-attachments/assets/3e00f574-1f74-4357-b069-0471e57f77f2)
+
+![Image](https://github.com/user-attachments/assets/35e2d4b8-ec1b-435f-9a45-a89ccf3d8f49)
 
 ## Features
 
